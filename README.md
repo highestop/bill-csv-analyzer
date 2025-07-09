@@ -1,4 +1,4 @@
-# private-csv-bill-analyzer
+# BillCSVAnalyzer
 
 ```
 node main.js {csvFile}
